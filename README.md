@@ -3,8 +3,7 @@
 This is the frontend for the Reservation Management System, built using Vue.js and Vuetify. It provides a user interface for managing room, equipment, and vehicle reservations. The frontend interacts with the backend API to handle user authentication, CRUD operations for reservable items, and reservation management.
 
 ## Url
-https://rezervis-frontend-5zod-79fxzdd03-main-team1.vercel.app/
-
+https://rezervis-frontend-1obq.vercel.app/
 
 ## Features
 
