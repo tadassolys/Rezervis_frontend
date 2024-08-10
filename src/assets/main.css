@@ -1,0 +1,37 @@
+.v-application {
+  font-family: Roboto, sans-serif;
+  background-color: #285D62 !important; 
+}
+.v-app-bar {
+  background-color: #285D62 !important;
+  color: #ffffff !important;
+}
+
+.v-navigation-drawer {
+  background-color: #ffffff !important; 
+  color: #ffffff !important;
+}
+
+.v-list-item {
+  background-color: #ffffff !important ; 
+  color: #ffffff !important; 
+}
+
+.v-list-item--active,
+.v-list-item:hover {
+  background-color: #285D62 !important; 
+}
+
+.v-icon {
+  color: #cfd8dc ; 
+}
+
+.v-btn {
+  color: #ffffff; 
+}
+
+.v-list-item-title{
+  color: #000000;
+}
+
+
